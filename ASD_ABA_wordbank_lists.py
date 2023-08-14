@@ -1,10 +1,12 @@
-wb_list_ASD_ABA_global = [
+wb_list_ABA_global = [
     'rq_world_df_rising', 
     'rq_world_df_top',
+    'rq_aba_therapy_search_term_global_df_rising',
+    'rq_aba_therapy_search_term_global_df_top'
     ]
 
 
-wb_list_ASD_ABA_uk = [
+wb_list_ABA_uk = [
     'rq_uk_df_rising',
     'rq_uk_df_top' 
     ]
