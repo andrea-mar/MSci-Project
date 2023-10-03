@@ -1,0 +1,5 @@
+models/
+.asd_subreddits_list.csv.icloud
+.env
+annotated_data/.DS_Store
+todelete.ipynb
