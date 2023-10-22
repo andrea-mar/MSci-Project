@@ -3,3 +3,4 @@ models/
 .env
 annotated_data/.DS_Store
 todelete.ipynb
+todelete.py
